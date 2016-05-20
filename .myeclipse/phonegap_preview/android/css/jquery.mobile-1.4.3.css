@@ -939,6 +939,7 @@ html .ui-alt-icon .ui-radio-off:after {
 #contact {
 	font-size: 14px;
 	text-align: center;
+	white-space: nowrap;
 }
 ul#contact li {
     display:inline;
